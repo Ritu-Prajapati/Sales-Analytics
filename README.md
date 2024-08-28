@@ -12,7 +12,8 @@
 
 - **Role of reports:** Determine effective customer discounts, facilitate negotiations with consumers, and identify potential business expansion opportunities in promising countries.
 
-Steps Include 📑
+Steps Include📑
+
 ✔️Extract:
 Retrieve data from various sources, such as databases, CSV files, APIs, or other data repositories.
   
