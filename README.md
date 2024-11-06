@@ -19,7 +19,7 @@ Retrieve data from various sources, such as databases, CSV files, APIs, or other
   
 ✔️Transform:
 Data Cleaning: Remove duplicates, handle missing values, and correct errors.
-Data Transformation: Convert data into the desired format, such as aggregating values, merging datasets, or reshaping data.
+Data Transformation: Convert data into the desired format, such as aggregating values, merging datasets, or reshaping data, using Power query(Excel)
 Function Application: Apply functions or calculations (e.g., net sales, total quantity sold, growth percentage) to prepare the data for analysis.
 
 ✔️Load:
